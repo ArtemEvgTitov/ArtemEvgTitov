@@ -5,7 +5,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14A4F7&center=true&vCenter=true&width=435&lines=Murmansk%2C+Russia" alt="Typing SVG" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArtemEvgTitov)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemEvgTitov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ArtemEvgTitov/ArtemEvgTitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
