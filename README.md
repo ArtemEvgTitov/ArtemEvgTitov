@@ -1,10 +1,8 @@
 <img src="https://sun9-17.userapi.com/impg/4yEs-x5bZTe4DXJFN-5d79D51jU01O8SyBfq4g/lWpGqOSMAc0.jpg?size=1000x300&quality=95&sign=7964d6a8a1ac8df5119fd9e70fd8adf4&type=album" alt="Hi, I'm Artem Titov">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79A0F&center=true&vCenter=true&multiline=true&width=435&lines=Computer+science+student" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14A4F7&center=true&vCenter=true&multiline=true&width=435&lines=Murmansk%2C+Russia" alt="Typing SVG" /></a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemEvgTitov)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/ArtemEvgTitov)
 
 <!--
 **ArtemEvgTitov/ArtemEvgTitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
