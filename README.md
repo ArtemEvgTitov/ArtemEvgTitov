@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://instagram.com/tema.titov/" target="_blank">Artem</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student%2C+IT+news+writer+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79A0F&center=true&vCenter=true&multiline=true&width=435&lines=Computer+science+student" alt="Typing SVG" /></a>
 <!--
 **ArtemEvgTitov/ArtemEvgTitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
