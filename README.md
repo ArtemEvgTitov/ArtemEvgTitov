@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://instagram.com/tema.titov/" target="_blank">Artem</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://sun9-17.userapi.com/impg/4yEs-x5bZTe4DXJFN-5d79D51jU01O8SyBfq4g/lWpGqOSMAc0.jpg?size=1000x300&quality=95&sign=7964d6a8a1ac8df5119fd9e70fd8adf4&type=album" alt="Hi, I'm Artem Titov">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79A0F&center=true&vCenter=true&multiline=true&width=435&lines=Computer+science+student" alt="Typing SVG" /></a>
 
