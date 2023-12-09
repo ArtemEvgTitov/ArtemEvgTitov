@@ -1,5 +1,3 @@
-<img src="https://sun9-17.userapi.com/impg/4yEs-x5bZTe4DXJFN-5d79D51jU01O8SyBfq4g/lWpGqOSMAc0.jpg?size=1000x300&quality=95&sign=7964d6a8a1ac8df5119fd9e70fd8adf4&type=album" alt="Hi, I'm Artem Titov">
-
 [![codewars](https://www.codewars.com/users/ArtemEvgTitov/badges/large)](https://www.codewars.com/users/ArtemEvgTitov)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemEvgTitov)](https://github.com/anuraghazra/github-readme-stats)
