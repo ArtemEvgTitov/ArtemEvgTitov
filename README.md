@@ -1,4 +1,4 @@
-[![codewars](https://www.codewars.com/users/ArtemEvgTitov/badges/large)](https://www.codewars.com/users/ArtemEvgTitov)
+[![codewars](https://www.codewars.com/users/ArtemEvgTitov/badges/large)](https://www.codewars.com/users/rsschool_58dc9e404421225f)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemEvgTitov)](https://github.com/anuraghazra/github-readme-stats)
 
